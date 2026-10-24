@@ -1,6 +1,6 @@
 # Njawdi Enterprises website
 
-A responsive website for a cooking-oil supplier based in Abuja, FCT. It includes a product catalogue, pack-size selection, an on-device supply-list builder, company information, and a contact section.
+A responsive website for a cooking-oil supplier based in Kano, Kano Nigeria. It includes a product catalogue, pack-size selection, an on-device supply-list builder, company information, and a contact section.
 
 ## Before publishing
 
